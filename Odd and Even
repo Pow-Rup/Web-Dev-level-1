@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Class 36 </title>
+    </head>
+    <body>
+        <script>
+        const number=prompt("Enter a number: ");
+        if(numebr % 2==0) {
+            prompt("the numebr is even");
+        }
+        else{
+            prompt("the number is odd");    
+        }
+        </script>
+    </body>
+</html>
